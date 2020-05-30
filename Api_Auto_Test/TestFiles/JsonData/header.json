@@ -1,0 +1,35 @@
+{
+  "backend": {
+    "default": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
+      "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwidXNlciI6eyJ3ZWNoYXRfdXNlcmlkIjpudWxsLCJpZCI6IjEifSwiaWF0IjoxNTkwNzE2Mzk5LCJuYmYiOjE1OTA3MTYzOTksImV4cCI6MTU5MDcyMzU5OSwiaXNzIjoiaGV5dGVhIn0.pYXtmF0iNM6bylfZuybdr6f7XTWck2drdlNgY3PcXRY"
+    },
+    "login": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+    }
+  },
+  "weChat": {
+    "default": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
+      "Authorization": ""
+    },
+    "login": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+    }
+  },
+  "ali": {
+    "default": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
+      "Authorization": ""
+    },
+    "login": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+    }
+  }
+}

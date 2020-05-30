@@ -1,0 +1,15 @@
+pip install colorlog
+pip install pymysql
+pip install xlwt
+pip install xlrd
+pip install xlutils
+pip install platform
+pip install openpyxl
+
+tools
+|
+|---common.py
+|
+|---config
+|      |
+|      |---myConfig

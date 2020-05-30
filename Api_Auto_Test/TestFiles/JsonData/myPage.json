@@ -1,0 +1,37 @@
+{
+  "login_success": {
+    "username": "admin",
+    "password": "a12345678"
+  },
+  "login_fail": {
+    "username": "Sampson",
+    "password": "a123456789"
+  },
+  "get_member": {
+    "page": "1",
+    "size": "10",
+    "current": "1"
+  },
+  "addCar": {
+    "product": [
+      {
+        "id": "1",
+        "price": "38"
+      },
+      {
+        "id": "32",
+        "price": "19"
+      },
+      {
+        "id": "49",
+        "price": "28"
+      }
+    ],
+    "address": "GuangDong"
+  },
+  "grandSearch": {
+    "keyword":"VN20200513039",
+    "page":"1",
+    "size":"10"
+  }
+}

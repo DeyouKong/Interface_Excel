@@ -1,0 +1,68 @@
+2020-05-28 19:07:48 -  INFO - sendMail.py:[line:83] : email login success!
+2020-05-28 19:07:48 -  INFO - sendMail.py:[line:83] : email login success!
+2020-05-28 19:07:48 -  INFO - sendMail.py:[line:94] : 开始发送邮件，发送参数Content-Type: multipart/mixed; boundary="===============4801669251442332396=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?cHl0aG9u6Ieq5Yqo5YyW5rWL6K+V5oql5ZGK?=
+From: 1929765936@qq.com
+To: 1026328997@qq.com,1929765936@qq.com
+
+--===============4801669251442332396==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+5omn6KGM55So5L6L5pWw77yaNOaIkOWKn+aVsO+8mjTlpLHotKXmlbDvvJow
+
+--===============4801669251442332396==--
+
+2020-05-28 19:07:48 -  INFO - sendMail.py:[line:94] : 开始发送邮件，发送参数Content-Type: multipart/mixed; boundary="===============4801669251442332396=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?cHl0aG9u6Ieq5Yqo5YyW5rWL6K+V5oql5ZGK?=
+From: 1929765936@qq.com
+To: 1026328997@qq.com,1929765936@qq.com
+
+--===============4801669251442332396==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+5omn6KGM55So5L6L5pWw77yaNOaIkOWKn+aVsO+8mjTlpLHotKXmlbDvvJow
+
+--===============4801669251442332396==--
+
+2020-05-28 19:07:49 -  DEBUG - sendMail.py:[line:96] : mail send success!
+2020-05-28 19:07:49 -  DEBUG - sendMail.py:[line:96] : mail send success!
+2020-05-28 19:11:27 -  INFO - sendMail.py:[line:84] : email login success!
+2020-05-28 19:11:27 -  INFO - sendMail.py:[line:84] : email login success!
+2020-05-28 19:11:27 -  INFO - sendMail.py:[line:95] : 开始发送邮件，发送参数Content-Type: multipart/mixed; boundary="===============6110008870081893059=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?cHl0aG9u6Ieq5Yqo5YyW5rWL6K+V5oql5ZGK?=
+From: 1929765936@qq.com
+To: 1026328997@qq.com,1929765936@qq.com
+
+--===============6110008870081893059==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+5omn6KGM55So5L6L5pWw77yaNOaIkOWKn+aVsO+8mjTlpLHotKXmlbDvvJow
+
+--===============6110008870081893059==--
+
+2020-05-28 19:11:27 -  INFO - sendMail.py:[line:95] : 开始发送邮件，发送参数Content-Type: multipart/mixed; boundary="===============6110008870081893059=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?cHl0aG9u6Ieq5Yqo5YyW5rWL6K+V5oql5ZGK?=
+From: 1929765936@qq.com
+To: 1026328997@qq.com,1929765936@qq.com
+
+--===============6110008870081893059==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+5omn6KGM55So5L6L5pWw77yaNOaIkOWKn+aVsO+8mjTlpLHotKXmlbDvvJow
+
+--===============6110008870081893059==--
+
+2020-05-28 19:11:28 -  DEBUG - sendMail.py:[line:97] : mail send success!
+2020-05-28 19:11:28 -  DEBUG - sendMail.py:[line:97] : mail send success!
