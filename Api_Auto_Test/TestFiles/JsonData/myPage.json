@@ -1,7 +1,7 @@
 {
   "login_success": {
     "username": "admin",
-    "password": ""
+    "password": "admin1234"
   },
   "login_fail": {
     "username": "",
