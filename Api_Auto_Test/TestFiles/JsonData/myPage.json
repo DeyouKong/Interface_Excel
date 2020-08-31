@@ -1,11 +1,11 @@
 {
   "login_success": {
     "username": "admin",
-    "password": "a12345678"
+    "password": ""
   },
   "login_fail": {
     "username": "Sampson",
-    "password": "a123456789"
+    "password": ""
   },
   "get_member": {
     "page": "1",
